@@ -6,6 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Start.unity
+    guid: 2f16e4b3421ccc04dbcd039c95b9735f
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: a50dda0d3191a4b4abc951901be76d7e
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 0d167ed5f5a2ad34fa729d065a012188
+  - enabled: 1
+    path: Assets/Scenes/BossMode.unity
+    guid: 4f7b5f01f22dc8f48bb774795c03fb58
+  - enabled: 1
+    path: Assets/Scenes/Normal.unity
+    guid: d735f4b1b0ab9004081151e727a63844
+  - enabled: 1
+    path: Assets/Scenes/NormalMode.unity
+    guid: 817120c1adcdd044db178713f9004d3a
+  - enabled: 1
+    path: Assets/Scenes/MonsterNest.unity
+    guid: f4dc74e11198abb45bd843c9b23ffb33
   m_configObjects: {}
